@@ -1,0 +1,9 @@
+.about {
+    font-size: 18px;
+    font-weight: 600;
+    color: cornflowerblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
