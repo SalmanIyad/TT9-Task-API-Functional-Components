@@ -1,7 +1,6 @@
 # React | Functional Component API Task
 
-**Task Assigned to:** Mohammed Shoman  
-**Date:** 17 July
+**Mohammed shoman • 17 Jul** 
 
 ## Task Description
 
